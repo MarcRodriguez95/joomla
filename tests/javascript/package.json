@@ -12,6 +12,9 @@
 	"author": "Thanuditha Ruchiranga Wickramasinghe",
 	"license": "GPL-2.0",
 	"private": true,
+	"dependencies": {
+  		"jquery": ">=3.5.0"
+	}
 	"devDependencies": {
 		"jasmine-core": "^2.4.1",
 		"jasmine-jquery": "^2.1.1",
